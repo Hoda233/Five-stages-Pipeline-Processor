@@ -1,4 +1,4 @@
-# <div><img src="processor.jpg" width="50" draggable="false" > Five stages Pipeline Processor </div>
+# <div><img src="processor.jpg" width="50" draggable="false" > Five stages pipeline processor </div>
 
 ## 📝 Table of Contents
 
